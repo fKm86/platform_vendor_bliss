@@ -5,14 +5,12 @@ PRODUCT_PACKAGES += \
 
 # Telephony packages
 PRODUCT_PACKAGES += \
-    messaging \
     Stk \
     CellBroadcastReceiver
 
 # Optional packages
 PRODUCT_PACKAGES += \
     LiveWallpapersPicker \
-    PhotoTable \
     Terminal
     
 # Required Lineage packages
@@ -26,14 +24,8 @@ PRODUCT_PACKAGES += \
     AudioFX \
     Backgrounds \
     LineageSettingsProvider \
-    Eleven \
-    Jelly \
     LockClock \
     WeatherProvider
-
-# Exchange support
-PRODUCT_PACKAGES += \
-    Exchange2
 
 # Berry styles
 PRODUCT_PACKAGES += \

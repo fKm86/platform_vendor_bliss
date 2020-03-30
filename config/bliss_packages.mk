@@ -55,22 +55,16 @@ PRODUCT_PACKAGES_DEBUG += \
 
 # Bliss Packages
 PRODUCT_PACKAGES += \
-    LatinIME \
-    DeskClock \
     ThemePicker \
     BlissUpdater \
-    BlissPapers \
     SettingsIntelligenceGooglePrebuilt \
     Lawnchair \
     Longshot \
     OPScreenRecorder \
     NexusWallpapersStubPrebuilt2019Static \
-    GalleryGoPrebuilt \
     PixelThemesStub2019 \
     AboutBliss \
     BlissStatistics \
-    Contacts \
-    Dialer \
     OmniJaws \
     OmniStyle
 
